@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TaskLists>
+    <TaskList>
+        <Task project="New project"/>
+        <Task project="T2"/>
+        <Task project="New Task"/>
+        <Task project="New Task2"/>
+    </TaskList>
+</TaskLists>
